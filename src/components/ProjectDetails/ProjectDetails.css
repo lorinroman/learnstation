@@ -1,0 +1,20 @@
+.container-cards{
+    gap:100px;
+    margin-left:145px;
+    position:absolute;
+    top:800px;
+    display: flex;
+    justify-content: space-between;
+    width:80%;
+    
+}
+
+
+.join-now{
+    position: relative;
+    margin-top: -40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
